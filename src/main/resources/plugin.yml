@@ -1,0 +1,6 @@
+name: CommandScheduler
+api-version: '1.20'
+author: TrendyPanda
+description: A trial plugin made by TrendyPanda
+main: net.trendydevelopment.commandscheduler.Scheduler
+version: 1.0

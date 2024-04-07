@@ -1,0 +1,10 @@
+schedules:
+  duel_fix_schedule:
+    commands:
+      - "duelreload Duelsigns"
+      - "duelreload Premadekids"
+    time: "10m 30s"
+  duel_world_cleanup:
+    commands:
+      - "/cleanupduelworlds"
+    time: "10m"
